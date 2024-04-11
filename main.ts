@@ -1,6 +1,6 @@
 export function arcRtnCalc(lvl: number, score: number) {
     let strScore = Math.floor(score).toString();
-    if (strScore.startsWith('1') || strScore.length > 8) {
+    if (strScore.startsWith('1') || strScore.length > 7) {
         return lvl + 2;
     } else if (strScore.length < 7) {
         strScore = strScore + '0'.repeat(7 - strScore.length);
