@@ -1,0 +1,23 @@
+{
+  "name": "kalium-vanilla-arc",
+  "version": "5.5.7",
+  "description": "Arcaea plugin for Kalium.",
+  "main": "main.ts",
+  "keywords": [
+    "kalium",
+    "arcaea"
+  ],
+  "author": "MBRjun",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/K19B/kalium-vanilla-arc.git"
+  },
+  "bugs": {
+    "url": "https://github.com/K19B/kalium-vanilla-arc/issues"
+  },
+  "homepage": "https://github.com/K19B/kalium-vanilla-arc#readme",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
