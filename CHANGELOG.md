@@ -1,3 +1,6 @@
+# v5.5.10
+- fix: package index
+
 # v5.5.9
 - fix: publish dist
 

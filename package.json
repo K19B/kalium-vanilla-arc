@@ -1,10 +1,10 @@
 {
   "name": "kalium-vanilla-arc",
-  "version": "5.5.9",
+  "version": "5.5.10",
   "description": "Arcaea plugin for Kalium.",
-  "main": "./dist/index.js",
-  "module": "./dist/index.mjs",
-  "types": "./dist/index.d.ts",
+  "main": "./dist/main.js",
+  "module": "./dist/main.mjs",
+  "types": "./dist/main.d.ts",
   "files": [
     "dist"
   ],
