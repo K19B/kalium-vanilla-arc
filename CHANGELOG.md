@@ -1,3 +1,6 @@
+# v5.5.8
+- fix: create tsconfig
+
 # v5.5.7
 - chore: publish to npm
 
