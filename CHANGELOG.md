@@ -1,3 +1,6 @@
+# v5.5.9
+- fix: publish dist
+
 # v5.5.8
 - fix: create tsconfig
 
